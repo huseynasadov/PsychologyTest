@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CryptoHelper" Version="3.0.2" />
+    <PackageReference Include="SendGrid" Version="9.28.1" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.22" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Psychology.Core\Psychology.Core.csproj" />
+    <ProjectReference Include="..\Psychology.Data\Psychology.Data.csproj" />
+  </ItemGroup>
+
+</Project>

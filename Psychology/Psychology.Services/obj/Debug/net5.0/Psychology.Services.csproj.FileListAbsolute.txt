@@ -1,0 +1,17 @@
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\bin\Debug\net5.0\Psychology.Services.deps.json
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\bin\Debug\net5.0\Psychology.Services.dll
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\bin\Debug\net5.0\Psychology.Services.pdb
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\bin\Debug\net5.0\Psychology.Core.dll
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\bin\Debug\net5.0\Psychology.Data.dll
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\bin\Debug\net5.0\Psychology.Core.pdb
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\bin\Debug\net5.0\Psychology.Data.pdb
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\obj\Debug\net5.0\Psychology.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\obj\Debug\net5.0\Psychology.Services.AssemblyInfoInputs.cache
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\obj\Debug\net5.0\Psychology.Services.AssemblyInfo.cs
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\obj\Debug\net5.0\Psychology.Services.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\obj\Debug\net5.0\Psychology.Services.csproj.CopyComplete
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\obj\Debug\net5.0\Psychology.Services.dll
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\obj\Debug\net5.0\ref\Psychology.Services.dll
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\obj\Debug\net5.0\Psychology.Services.pdb
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\obj\Debug\net5.0\Psychology.Services.csprojAssemblyReference.cache
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Services\bin\Debug\net5.0\ref\Psychology.Services.dll

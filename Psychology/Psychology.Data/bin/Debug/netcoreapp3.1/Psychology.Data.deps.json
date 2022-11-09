@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Psychology.Data/1.0.0": {
+        "dependencies": {
+          "Psychology.Core": "1.0.0"
+        },
+        "runtime": {
+          "Psychology.Data.dll": {}
+        }
+      },
+      "Psychology.Core/1.0.0": {
+        "runtime": {
+          "Psychology.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Psychology.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Psychology.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Core\bin\Debug\netcoreapp3.1\Psychology.Core.deps.json
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Core\bin\Debug\netcoreapp3.1\Psychology.Core.dll
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Core\bin\Debug\netcoreapp3.1\Psychology.Core.pdb
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Core\obj\Debug\netcoreapp3.1\Psychology.Core.AssemblyInfoInputs.cache
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Core\obj\Debug\netcoreapp3.1\Psychology.Core.AssemblyInfo.cs
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Core\obj\Debug\netcoreapp3.1\Psychology.Core.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Core\obj\Debug\netcoreapp3.1\Psychology.Core.dll
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Core\obj\Debug\netcoreapp3.1\Psychology.Core.pdb
