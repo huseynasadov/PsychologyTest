@@ -9,3 +9,4 @@ C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.
 C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Core\obj\Debug\net5.0\ref\Psychology.Core.dll
 C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Core\obj\Debug\net5.0\Psychology.Core.pdb
 C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Core\bin\Debug\net5.0\ref\Psychology.Core.dll
+C:\Users\Huseyn I. Asadov\Desktop\Projects\PsychologyTest\Psychology\Psychology.Core\obj\Debug\net5.0\Psychology.Core.csprojAssemblyReference.cache

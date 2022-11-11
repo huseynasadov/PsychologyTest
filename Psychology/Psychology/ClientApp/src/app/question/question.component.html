@@ -1,0 +1,43 @@
+
+<section class="steps" id="steps" *ngIf="completedCount < questions?.length">
+    <h2 style="color:#fa4729;">Are you an introvert or an extrovert?</h2>
+    <div class="container">
+        <div class="mx-auto col-md-12 col-lg-7">
+            <div class="show-section">
+                <section class="steps-inner" id="step-4">
+                    <div>
+                        <div class="step-bar">
+                            <span class="step-counter">
+                                Question {{completedCount+1}} / {{questions.length}}
+                            </span>
+                        </div>
+                        <form action="#" method="post">
+                            <div class="form-heading">
+                                {{questions[completedCount].description}}
+                            </div>
+                            <div class="form-inner pop-slide">
+                                <label class="form-input" for="work" *ngFor="let answer of answers; let i = index">
+                                    <input type="radio" name="work" [checked]="answer.checked" (click)="execute(answer)">
+                                    <span>{{answer.description}}</span>
+                                </label>
+                            </div>
+
+                            <div class="form-buttons">
+                                <button type="button" class="prev" (click)="preview()" *ngIf="completedCount!=0">preview</button>
+                                <div *ngIf="completedCount==0"></div>
+                                <button type="button" class="next" (click)="completedCount < questions?.length-1  ? next(): submit ()">{{completedCount < questions?.length-1 ? 'next' : 'submit'}}</button>
+                            </div>
+                        </form>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</section>
+<ng-container *ngIf="completedCount >= questions?.length">
+    <app-compete [answers]="customerAnswers"></app-compete>
+</ng-container>
+
+
+
+

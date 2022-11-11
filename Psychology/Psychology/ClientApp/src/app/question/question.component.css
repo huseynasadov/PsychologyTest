@@ -1,0 +1,157 @@
+.steps {
+    padding: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-height: 100vh;
+    background-color: #dcdadb;
+    display: grid;
+    place-items: center;
+    position: relative;
+    background-image: url(../../assets/images/bg.jpg);
+}
+
+.mx-auto {
+    margin-right: auto!important;
+    margin-left: auto!important;
+}
+
+.pop-slide {
+    animation: pop-slide 0.5s ease forwards;
+}
+
+.wrapper {
+    padding: 70px 100px;
+}
+
+.step-bar .step-counter {
+    font-size: 20px;
+    color: rgb(0, 10, 56);
+    font-weight: bold;
+    text-align: right;
+    display: block;
+}
+
+.step-bar-inner {
+    border-radius: 9px;
+    background-color: rgb(233, 233, 233);
+    width: 100%;
+    height: 16px;
+    margin-top: 0.5rem;
+}
+
+.step-move.m25 {
+    animation-name: move-25;
+}
+
+.step-bar-inner .step-bar-move {
+    width: 30%;
+    border-radius: inherit;
+    height: inherit;
+    background-color: #fa4729;
+}
+
+.step-move {
+    animation: move 0.5s linear forwards;
+}
+
+.form-heading {
+    font-size: 20px;
+    color: #2a1e1c;
+    font-weight: bold;
+    margin-top: 1.5rem;
+}
+
+.form-inner {
+    margin-top: 1rem;
+}
+
+.form-input {
+    position: relative;
+    align-items: center;
+    border-radius: 30px;
+    width: 100%;
+    height: 66px;
+    font-size: 16px;
+    color: rgb(0, 10, 56);
+    font-weight: 500;
+    padding: 12px;
+    transition: 0.5s all ease;
+}
+
+.form-input input {
+    -webkit-appearance: none;
+    border: solid 2px #718293;
+    border-radius: 50%;
+    width: 33px;
+    height: 33px;
+    cursor: pointer;
+    margin-right: 20px;
+    transition: 0.5s all ease;
+}
+
+.form-input span{
+    position: absolute;
+}
+
+.form-buttons .next {
+    background-color: #fa4729;
+}
+
+.form-buttons button i {
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+    transition: 0.5s all ease;
+    text-align: center;
+}
+
+.form-buttons {
+    text-align: center;
+    width: 100%;
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-buttons button {
+    border-radius: 34px;
+    width: 37%;
+    height: 52px;
+    border: none;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    position: relative;
+    transition: 0.5s all ease;
+}
+
+.form-buttons .prev {
+    background-color: rgb(44, 42, 42);
+}
+
+.active-input {
+    background-color: rgb(233, 233, 233);
+    transition: 0.5s all ease;
+}
+
+/* .form-input input:checked::after {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    content: "\f00c";
+    line-height: 30px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+} */
+
+.form-input input:checked {
+    background-color: #fa4729;
+    position: relative;
+}
+

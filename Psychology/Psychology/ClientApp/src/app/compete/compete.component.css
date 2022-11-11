@@ -1,0 +1,24 @@
+.next-prev-btn {
+    text-align: center;
+    width: 100%;
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.next-prev-btn a {
+    border-radius: 34px;
+    width: 37%;
+    height: 52px;
+    border: none;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    position: relative;
+    transition: 0.5s all ease;
+}
+
+.wrapper{
+    color:white;
+}
